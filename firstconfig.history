@@ -1,0 +1,41 @@
+    1  pseudo
+    2  sudo
+    3  sudo awallin
+    4  whoami
+    5  sudo andrew
+    6  ap-get install updates
+    7  apt-get install updates
+    8  sudo su
+    9  git config --global
+   10  git clone https://github.com/wallina99/ITC-136.git
+   11  ls -l
+   12  git config user.name "wallina99"
+   13  cd ITC-136
+   14  git config user.name "wallina99"
+   15  ls
+   16  ls -l
+   17  cd ..
+   18  ls
+   19  cd ITC-136
+   20  ls -l
+   21  git
+   22  cd ..
+   23  git clone https://github.com/wallina99/ITC-136.git
+   24  ls -l
+   25  cd ITC-136
+   26  ls -l
+   27  ls -ltra
+   28  cd .git
+   29  ls -l
+   30  ls -la
+   31  git config -- global user.email "awwallin63@gmail.com"
+   32  git config --global user.email "awwallin63@gmail.com"
+   33  git config --global user.name
+   34  git config --glabal user.name
+   35  ls
+   36  git config --glabal user.email awwallin63@gmail.com
+   37  git config user.email awwallin63@gmail.com
+   38  git config user.name andrew.wallin
+   39  ls
+   40  cd ..
+   41  history >> firstconfig.history
