@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=0.1
+Name=Stats
+Comment=Generated program
+Exec=/usr/bin/gnome-terminal -e "bash -c '/usr/local/bin/stats; bash'"
+Icon=/home/jcarroll/Pictures/spider.png
+Terminal=true
+Type=Application
+Categories=Utility;Application;
